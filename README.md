@@ -27,9 +27,6 @@ Si definisca l’implementazione del tipo di dato Post.
 Parte 2
 Si richiede di progettare, realizzare e documentare il tipo di dato SocialNetwork per operare sulla
 rete sociale MicroBlog. Come struttura di implementazione della rete sociale si richiede di utilizzare
-```java 
-   Map<String, Set<String>>
-```
 Intuitivamente, Map[a] definisce l’insieme delle persone seguite nella rete sociale dall’utente a. Una
 persona sulla rete sociale è rappresentata e identificata in modo dal nome. Gli utenti della rete
 sociale non possono seguire se stessi.
